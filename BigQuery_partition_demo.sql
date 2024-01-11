@@ -1,5 +1,5 @@
 /*
-Author : @ Anjan GCP Data Engineering
+Author : @ramanshukla GCP Data Engineering
 
 Created SQLs to Demo  BigQuery Table Partitioning
   1. TIME UNIT (MONTHLY)
